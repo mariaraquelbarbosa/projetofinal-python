@@ -9,7 +9,7 @@
 </div>
 
 # Projeto Final do Curso de Python 2022
-O curso de Python oferecido pelo FEA.Dev em 2022 ensinou os conceitos necessários para análise de dados e, dada a importância de saber fazê-lo, tanto no meio acadêmico, quanto no profissional, foi solicitado o projeto final em *data analysis*. Este projeto final, além de ser obrigatório para a obtenção do certificado, é uma oportunidade do estudante explorar algum tema de seu interesse (acadêmico, profissional, hobby etc.) e que possa, até mesmo, ter utilidade prática a curto prazo. 
+O curso de Python oferecido pelo FEA.Dev em 2022 ensinou os conceitos necessários para análise de dados e, dada a importância de saber fazê-lo, tanto no meio acadêmico, quanto no profissional, foi solicitado o projeto final em *data analysis*. Este projeto final, além de ser obrigatório para a obtenção do certificado, foi uma oportunidade de explorar algum tema de interesse (acadêmico, profissional, hobby etc.) e que possa, até mesmo, ter utilidade prática a curto prazo.
 
 # Critérios de correção
 Durante a correção é esperado do aluno:
