@@ -11,6 +11,8 @@
 # Overview
 Uma análise exploratória de dados de vídeos do canal da Selena Gomez no Youtube extraídos via API, sendo realizado como projeto final do curso básico de Python do [FEA.dev](https://github.com/fea-dev-usp).
 
+> Status: Concluído :heavy_check_mark: (não otimizado)
+
 # Referências
 * [YouTube API Reference](https://developers.google.com/youtube/v3/docs?hl=pt-br)
 * [Youtube API for Python: How to Create a Unique Data Portfolio Project](https://www.youtube.com/watch?v=D56_Cx36oGY)
